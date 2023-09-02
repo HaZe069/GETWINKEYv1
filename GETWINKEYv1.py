@@ -39,7 +39,7 @@ def generate_key():
 
 
 def open_about_popup():
-    about_text = "GETWINKEY v1\n\nA simple key generator\n\nAuthor: Your Name"
+    about_text = "GETWINKEY v1\n\nGETWINKEY v1\n\nAuthor: Txmm"
     messagebox.showinfo("About", about_text)
 
 root = tk.Tk()
